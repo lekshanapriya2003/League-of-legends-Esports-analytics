@@ -169,11 +169,6 @@ If scaled to millions of rows:
 
 ---
 
-## Author
-
-Lekshana Priya R
-
----
 
 
 
